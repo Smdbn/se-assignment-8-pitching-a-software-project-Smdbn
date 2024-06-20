@@ -12,11 +12,11 @@ Answer the following questions based on your understanding of how to pitch a sof
 
    Understanding your audience when pitching a software project is crucial because different stakeholders have varied interests and concerns:
 
-1. Investors: Focus on the project's potential return on investment, emphasizing market opportunity, revenue projections, and scalability.
+- Investors: Focus on the project's potential return on investment, emphasizing market opportunity, revenue projections, and scalability.
    
-2. Technical Team: Highlight technical aspects like architecture, tools, and development milestones, demonstrating feasibility and innovation.
+- Technical Team: Highlight technical aspects like architecture, tools, and development milestones, demonstrating feasibility and innovation.
 
-3. Customers: Address benefits and value propositions that resonate with their needs and pain points, emphasizing user experience and usability.
+- Customers: Address benefits and value propositions that resonate with their needs and pain points, emphasizing user experience and usability.
 
 Tailoring your pitch involves using language and content that speaks directly to each group's priorities and interests, ensuring clarity and alignment with their expectations.
 
