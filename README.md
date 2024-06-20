@@ -24,7 +24,7 @@ Tailoring your pitch involves using language and content that speaks directly to
 2. Problem Statement:
    - Describe the importance of a clear problem statement in a software project pitch. How do you effectively communicate the problem your software aims to solve?
 
-A clear problem statement is essential in a software project pitch because it defines the purpose and urgency of the project:
+A clear problem statement is essential in a software project pitch because it defines the purpose and urgency of the project: 
 
 1. Importance: It helps stakeholders understand the specific issue or pain point your software addresses, making the project's goals and objectives clear.
    
